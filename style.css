@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  background-color: #17182f;
+  font-family: 'Sen', sans-serif;
+  font-size: 15px;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 200%;
+}
+
+
+.welcome {
+  color: rgba(29, 211, 165, 0.63);
+  position: absolute;
+  text-align: center;
+  top: 5%;
+  margin-left: 42%;
+}
+
+.btn {
+  color: rgb(255, 255, 255);
+  background-color: rgba(29, 211, 165, 0.63);
+  border: none;
+}
+
+.btn:hover {
+  opacity: 0.5;
+  color: black;
+}
+
